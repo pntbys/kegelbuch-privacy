@@ -1,0 +1,2 @@
+# kegelbuch-privacy
+Datenschutzerklärung KegelbuchPro
